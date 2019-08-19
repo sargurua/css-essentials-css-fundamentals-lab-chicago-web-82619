@@ -14,5 +14,7 @@ h1 {
 
 #featured-property > p {
   width: 800px;
-  text-align: center;
+  margin-left: 50;
+  margin-right: 50;
+  text-align: center
 }
