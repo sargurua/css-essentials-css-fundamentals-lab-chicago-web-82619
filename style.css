@@ -17,6 +17,6 @@ h1 {
   margin-right: 50;
 }
 
-nav {
+header > nav {
   color: green;
 }
