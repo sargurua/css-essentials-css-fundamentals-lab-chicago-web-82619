@@ -9,12 +9,12 @@ h1 {
 }
 
 #featured-property > figure{
- align-
+ text-align: center;
 }
 
 #featured-property > p {
-  margin-left: 50;
-  margin-right: 50;
+  width: 800;
+  margin: auto
 }
 
 nav {
