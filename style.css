@@ -13,7 +13,8 @@ h1 {
 }
 
 #featured-property > p {
-  width: 800;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
 nav {
